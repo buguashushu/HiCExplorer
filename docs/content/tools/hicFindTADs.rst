@@ -188,6 +188,6 @@ If `min_depth` is not given, this is computed as bin size * 30
 (if the bins are smaller than 1000), as bin size * 10 if the bins are between
 1000 and 20.000 and as bin size * 5 if the bin size is bigger than 20.000.
 
-If `min_depth` is not given, this is computed as bin size * 60
+If `max_depth` is not given, this is computed as bin size * 60
 (if the bins are smaller than 1000), as bin size * 40 if the bins are between
 1000 and 20.000 and as bin size * 10 if the bin size is bigger than 20.000.
